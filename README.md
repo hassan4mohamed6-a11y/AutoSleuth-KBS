@@ -1,4 +1,4 @@
-# 🕵️‍♂️ AutoSleuth — Knowledge-Based Vehicle Diagnostic System
+#  AutoSleuth — Knowledge-Based Vehicle Diagnostic System
 
 A **Certainty Factor (CF) expert system** built with Python and Streamlit that diagnoses vehicle faults using forward-chaining inference across 73 logical rules.
 
@@ -6,7 +6,7 @@ A **Certainty Factor (CF) expert system** built with Python and Streamlit that d
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 The system implements the classic **3-step CF methodology** for reasoning under uncertainty:
 
@@ -16,7 +16,7 @@ The system implements the classic **3-step CF methodology** for reasoning under 
 
 ---
 
-## 🚗 Diagnostic Coverage
+## Diagnostic Coverage
 
 The system covers **6 major vehicle systems** with **73 inference rules**:
 
